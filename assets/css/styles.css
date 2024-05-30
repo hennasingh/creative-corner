@@ -1,19 +1,31 @@
-/* Asterik wildcard selector to override default styles added by the browser*/
+/* Font Dancing Script for Body and Lobster for Header Styles*/
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+/* Asterik wildcard selector to override default styles added by the browser*/
 * {
     padding:0;
     margin:0;
     box-sizing: border-box;
 }
 
+/* General styles */
+body {
+    /* General project styles*/
+    color:#3a3a3a;
+    font-family: "Dancing Script", cursive;
+}
+
+/* Header */
 header {
     background-color: aqua;
 }
 
+/* Main */
 main {
     background-color: aquamarine;
 }
 
+/* footer */
 footer{
     background-color: blue;
 }
