@@ -91,7 +91,30 @@ main {
 
 /* footer */
 footer{
-    background-color: rgb(200, 228, 159);
+    text-align: center;
+    padding: 1em 0;
+}
+
+footer img {
+    width: 25px;
+    height: 25px;
+} 
+
+footer p {
+    letter-spacing: 1px;
+}
+
+#social-networks {
+    display:flex;
+    justify-content: space-evenly;
+    padding: 1em 0;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    color:#3a3a3a;
+    padding:5%;
 }
 
 /* Media Query : Tablets and above (768px and above)*/
@@ -129,6 +152,17 @@ footer{
     main {
         /* Push main content down to accommodate larger header*/
         margin-top: 75px;
+    }
+
+    /* footer*/
+    footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #social-networks {
+        width:20%;
     }
 }
 
