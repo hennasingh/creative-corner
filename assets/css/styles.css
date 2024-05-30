@@ -20,6 +20,10 @@ header {
     background-color: aqua;
 }
 
+h1 {
+    font-family: "Lobster Two", sans-serif;
+}
+
 /* Main */
 main {
     background-color: aquamarine;
