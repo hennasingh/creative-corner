@@ -27,6 +27,9 @@ header {
     z-index:99;
     box-shadow: 0 2px 2px #3a3a3a;
     font-family: "Lobster Two", sans-serif;
+    display:flex;
+    justify-content: space-between;
+
 }
 
 header a {
@@ -57,6 +60,21 @@ nav {
     left:0;
     box-shadow: 0 2px 2px #3a3a3a;
     display:none;
+    /* this will push menu down the heading, 100 means bottom of the parent*/
+    top:100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 h1 {
