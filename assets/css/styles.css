@@ -153,6 +153,10 @@ footer p {
         /* Push main content down to accommodate larger header*/
         margin-top: 75px;
     }
+    figure > img {
+        width: 33%;
+        height:400px;
+    }
 
     /* footer*/
     footer {
