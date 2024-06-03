@@ -50,7 +50,7 @@ The wireframes for mobile and desktop were created using Balsamiq
 I encountered a few bugs when I started the project and leanrt a few things while I fixed them.
 1. The first issue I had was displaying my footer on the mobile view. I had added 3 paragraphs in my footer and wanted to display in column for mobile and in row for desktop. I had enclosed 3 sections in div and had given flex display to `footer` with column direction. This made it impossible to give `space-evenly` to `justify-content` attribute to the ul element as giving `flex` display to footer made it confined to the text size. Two ways to fix this were, giving either `width` to the `ul` element or removing `flex` display from the footer as other elements will be block display and giving `flex` only to unordered list.
 
-2. The second issue I faced was displaying images in the home screen for mobile screens. I aimed to create sliding images by using only HTML and CSS. This was a bit of a struggle as I was unable to fit my images in the mobile screen as I pictured in my wireframe. 
+2. The second issue I faced was displaying images in the home screen for mobile screens. I aimed to create sliding images by using only HTML and CSS. This was a bit of a struggle as I was unable to fit my images in the mobile screen as I pictured in my wireframe. I struggled further with relative position for images as it broke my header and footer design. I saved the commit which I may come back to again. I decided to create a gif image of the gallery images and add them to the home screen.
 
 
 
