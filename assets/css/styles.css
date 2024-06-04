@@ -175,6 +175,16 @@ footer p {
         margin-top: 75px;
     }
 
+    #hero-section {
+        display:flex;
+    }
+
+    #hero-section figure {
+        order: 2;
+        flex: 4 0 300px;
+        align-self: center;
+    }
+
     /* footer*/
     footer {
         display: flex;
@@ -189,7 +199,41 @@ footer p {
 
 /* Media Query: laptops and upwards (992px and up) */
 @media screen and (min-width: 992px) {
+    /* Header*/
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
+    }
+
+    /* main */
+    #hero-section {
+        width:90%;
+    }
+
+    #hero-section figure {
+        order: 2;
+        flex: 4 0 500px;
+        align-self: center;
+    }
+    #hero-content {
+        align-self: center;
+    }
+
+    #hero-content p {
+        font-size: 130%;
+        letter-spacing: 2px;
+    }
+}
+
+/* Media Query: Desktops and upwards (1200px and up) */
+@media screen and (min-width: 1200px) {
+
+    /* Main */
+    #hero-section figure {
+        margin-top: 2em;
+    }
+
+    #hero-content p {
+        font-size: 160%;
+        letter-spacing: 3px;
     }
 }
