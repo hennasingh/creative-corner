@@ -181,7 +181,7 @@ footer p {
 
     #hero-section figure {
         order: 2;
-        flex: 4 0 300px;
+        flex:4 0 320px;
         align-self: center;
     }
 
@@ -205,17 +205,20 @@ footer p {
     }
 
     /* main */
+
     #hero-section {
-        width:90%;
+        gap:2em;
     }
 
     #hero-section figure {
         order: 2;
-        flex: 4 0 500px;
+        flex:4 0 500px;
         align-self: center;
     }
+
     #hero-content {
         align-self: center;
+        width:50%;
     }
 
     #hero-content p {
