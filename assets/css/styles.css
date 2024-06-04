@@ -121,6 +121,7 @@ main {
     background:url("../images/quote-image.webp") no-repeat center center/cover;
     position: relative;
     text-align: center;
+    margin-top:2em;
 }
 
 #quote-text{
@@ -131,6 +132,8 @@ main {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    border-radius: 6px;
+    border: 4px solid #fff;
 }
 
 
