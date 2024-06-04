@@ -12,6 +12,8 @@
 body {
     min-height: 100vh;
     /* General project styles*/
+    display:flex;
+    flex-direction: column;
     color:#3a3a3a;
     font-family: "Dancing Script", cursive;
 }
@@ -81,36 +83,11 @@ h1 {
 
 /* Main */
 main {
-    background-color: aquamarine;
      /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 40px;
 }
 
-.slider_container {
-    width:100%;
-    height:400px;
-    margin-top: 1.2em;
-}
-@keyframes slider{
-    0% { left: 0; }
-	30% { left: 0; }
-	33% { left: -100%; }
-	63% { left: -100%; }
-	66% { left: -200%; }
-	95% { left: -200%; }
-	100% { left: 0; }
-}
-
-#slider figure {
-	width:300%;
-	position: relative;
-	animation: 9s slider infinite;
-}
-
-#slider figure img {
-	width: 33.333333333%;
-}
 /* footer */
 footer{
     text-align: center;
@@ -174,10 +151,6 @@ footer p {
     main {
         /* Push main content down to accommodate larger header*/
         margin-top: 75px;
-    }
-    figure > img {
-        width: 33%;
-        height:400px;
     }
 
     /* footer*/
