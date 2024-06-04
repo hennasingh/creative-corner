@@ -52,6 +52,39 @@ I encountered a few bugs when I started the project and leanrt a few things whil
 
 2. The second issue I faced was displaying images in the home screen for mobile screens. I aimed to create sliding images by using only HTML and CSS. This was a bit of a struggle as I was unable to fit my images in the mobile screen as I pictured in my wireframe. I struggled further with relative position for images as it broke my header and footer design. I saved the commit which I may come back to again. I decided to create a gif image of the gallery images and add them to the home screen.
 
+### Deployment & Gitpod Development
+
+#### Deployment
+
+The website is deployed using Github Pages functionality provided by Github. The steps to follow are:
+
+1. Create a Github account if you dont already have one
+2. The repository for Creative Corner was created using a template provided by Code Institute. This can be found on the repository title [here](https://github.com/hennasingh/creative-corner).
+3. Go to settings tab on the menu bar of the repository.
+4. In the left section, under Code and automation, click on Pages.
+5. Under the title "Build and deployment", select the source: Deploy from a branch.
+6. Under the branch section below that, select /root folder and save.
+7. Come back to Code section of the repository. Give a few minutes and refresh the page. You will find Deployments section generated the right side with a URL to the deployed site.
+
+#### Gitpod Development
+
+The project Creative Corner was developed using Gitpod that provides the functionality to work in VS code within the browser. The steps I followed setting up account and develop the project:
+
+1. Create a Github repository using a template if you have one.
+2. Install [Gitpod extension](https://chromewebstore.google.com/detail/gitpod/dodmmooeoklaejobgleioelladacbeki?hl=en&pli=1) in the browser you use.
+3. Create a Gitpod account. With Code Institute, there was provision of enterprise gmail account provided by them. I used that email to sign-up for Gitpod account. You can use your personal email to sign-up. It provides limited hours to work on Gitpod. There are other ways to increase the hours.
+4. Once in the Gitpod account, create a workspace, by pasting the link of the repository created in step 1. Other option is once you create repository in Github, the repository can be opened in Gitpod using the open button. Read more [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension)
+5. Once, the workspace is created, you can run this command on terminal to preview your repo `python3 -m http.server`. 
+6. You can continue to make changes in the workspace within Gitpod and commit your changes to Github and also see preview of your website.
+
+
+
+
+
+
+
+
+
 
 
 
