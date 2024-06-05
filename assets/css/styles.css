@@ -263,6 +263,18 @@ footer p {
         font-size: 110%;
     }
 
+    #crafts {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.7em;
+        width:90%;
+    }
+
+    #crafts > div {
+        flex-basis: 230px;
+        flex-grow: 1;
+    }
+
     /* footer*/
     footer {
         display: flex;
@@ -306,6 +318,26 @@ footer p {
 
     #quote-text {
         font-size: 120%;
+    }
+
+    #crafts {
+        gap: 3em;
+        width:80%;
+        margin-top: 4em;
+    }
+
+    #crafts > div {
+        flex-basis: 400px;
+        flex-grow: 1;
+    }
+
+    .card {
+        display: flex;
+    }
+
+    .card-text p {
+        padding: 0.8em;
+        font-size: 1.3rem;
     }
 }
 
