@@ -191,6 +191,7 @@ main {
     width:100%;
     display: block;
     height: 250px;
+    margin-bottom: 1em;
 }
 
 .overlay {
