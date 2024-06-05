@@ -178,6 +178,50 @@ main {
     padding-top: 0.6em;
 }
 
+.container {
+    position: relative;
+
+}
+
+#materials {
+    width: 80%;
+}
+
+.container img {
+    width:100%;
+    display: block;
+    height: 250px;
+}
+
+.overlay {
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    height:100%;
+    width:100%;
+    opacity: 0;
+    transition: .5sec ease;
+    background-color: #475c46;
+    color:#fff;
+}
+
+.container:hover .overlay {
+    opacity: 1;
+}
+
+.overlay-text {
+    padding: 0.6em;
+    font-size: 1.2rem;
+}
+
+.overlay-text ol {
+    text-align: left;
+    padding: 0.8em;
+    list-style-type: disc;
+}
+
 
 /* footer */
 footer{
