@@ -187,6 +187,18 @@ main {
     width: 80%;
 }
 
+#materials h2 {
+    color:#a1532b;
+    font-size: 2rem;
+    text-transform: capitalize;
+    font-family: 'Lobster Two' sans-serif;
+}
+
+#materials > p {
+    padding: 0.6em;
+    font-size: 130%;
+}
+
 .container img {
     width:100%;
     display: block;
@@ -209,7 +221,7 @@ main {
 }
 
 .container:hover .overlay {
-    opacity: 1;
+    opacity: 0.8;
 }
 
 .overlay-text {
@@ -317,6 +329,22 @@ footer p {
 
     #crafts > div {
         flex-basis: 230px;
+        flex-grow: 1;
+    }
+
+    #materials {
+        width:90%;
+    }
+
+    #material-wrapper {
+        display:flex;
+        gap:1em;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #materials-wrapper > div {
+        flex-basis: 250px;
         flex-grow: 1;
     }
 
