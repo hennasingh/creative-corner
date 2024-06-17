@@ -1,5 +1,5 @@
-/* Font Dancing Script for Body and Lobster for Header Styles*/
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* Font Handlee for Body and Lobster for Header Styles*/
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Asterik wildcard selector to override default styles added by the browser*/
 * {
@@ -15,7 +15,7 @@ body {
     display:flex;
     flex-direction: column;
     color:#3a3a3a;
-    font-family: "Dancing Script", cursive;
+    font-family: "Handlee", cursive;
 }
 
 section {
@@ -84,6 +84,7 @@ h1 {
     text-transform: capitalize;
     letter-spacing: 2px;
     color:#a1532b;
+    font-size: 2rem;
 }
 
 /* Main */
@@ -118,12 +119,11 @@ main {
     font-size:120%;
     letter-spacing: 1px;
     padding:0.6em;
-    text-align: justify;
 }
 
 #quote {
     width:100%;
-    height:200px;
+    height:220px;
     background:url("../images/quote-image.webp") no-repeat center center/cover;
     position: relative;
     text-align: center;
@@ -269,6 +269,47 @@ footer p {
     color: #a1532b;
 }
 
+/* Media Query: Mobile Screena ( 425px and above) */
+
+@media screen and (min-width:425px){
+
+    /* Header */
+    h1 {
+        font-size: 2.4rem;
+    }
+
+    #hero-content > p {
+        font-size:1.4rem;
+        line-height: 30px;
+        text-align: left;
+    }
+
+    #quote-text h2{
+        font-size: 155%;
+    }
+
+    .card-text {
+        text-align: left;
+        font-size: 1.4rem;
+    }
+
+    #materials h2 {
+        font-size: 240%;
+    }
+
+    #materials > p {
+        font-size: 150%;
+    }
+
+    .overlay-text {
+        font-size: 1.2rem;
+    } 
+
+    footer {
+        font-size: 130%;
+    }
+}
+
 /* Media Query : Tablets and above (768px and above)*/
 
 @media screen and (min-width:768px){
@@ -296,16 +337,16 @@ footer p {
     }
 
     h1 {
-        font-size: 280%;
-        line-height: 75px;
+        font-size: 180%;
+        line-height: 80px;
         margin: 0 0.5rem;
     }
     /* Main Content */
     main {
         /* Push main content down to accommodate larger header*/
-        margin-top: 75px;
+        margin-top: 70px;
     }
-
+/* 
     #hero-section {
         display:flex;
     }
@@ -314,7 +355,7 @@ footer p {
         order: 2;
         flex:4 0 320px;
         align-self: center;
-    }
+    } */
 
     #quote-text {
         font-size: 110%;
