@@ -330,6 +330,7 @@ footer p {
 
     #menu > li {
         padding-left: 1rem;
+        font-size: 110%;
     }
 
     .nav-toggle-label {
@@ -337,7 +338,7 @@ footer p {
     }
 
     h1 {
-        font-size: 180%;
+        font-size: 250%;
         line-height: 80px;
         margin: 0 0.5rem;
     }
@@ -346,7 +347,7 @@ footer p {
         /* Push main content down to accommodate larger header*/
         margin-top: 70px;
     }
-/* 
+
     #hero-section {
         display:flex;
     }
@@ -355,10 +356,10 @@ footer p {
         order: 2;
         flex:4 0 320px;
         align-self: center;
-    } */
+    }
 
     #quote-text {
-        font-size: 110%;
+        font-size: 130%;
     }
 
     #crafts {
@@ -366,6 +367,7 @@ footer p {
         flex-wrap: wrap;
         gap: 1.7em;
         width:90%;
+       
     }
 
     #crafts > div {
@@ -373,13 +375,26 @@ footer p {
         flex-grow: 1;
     }
 
+    .card-text {
+        font-size: 1.6rem;
+    }
+
     #materials {
         width:90%;
+    }
+
+    #materials h2 {
+        font-size: 260%;
+    }
+
+    #materials > p {
+        font-size: 170%;
     }
 
     #material-wrapper {
         display:flex;
         gap:1em;
+        flex-wrap: wrap;
         justify-content: center;
         align-items: center;
     }
@@ -389,15 +404,16 @@ footer p {
         flex-grow: 1;
     }
 
-    /* footer*/
-    footer {
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    .container img {
+        height: 300px;
     }
 
-    #social-networks {
-        width:20%;
+    .overlay-text {
+        font-size: 140%;
+    }
+
+    footer {
+        font-size: 170%;
     }
 }
 
