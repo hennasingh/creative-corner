@@ -512,4 +512,20 @@ footer p {
     #quote-text {
         font-size: 140%;
     }
+
+    #material-wrapper {
+        flex-wrap: nowrap;
+    }
+
+    /* footer */
+    footer {
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0 0.6em;
+    }
+
+    #social-networks {
+        width:20%;
+    }
 }
