@@ -106,6 +106,8 @@ main {
     text-align: center;
 }
 
+/*Hero Section */
+
 #hero-section {
     width:90%;
     margin: 0 auto;
@@ -127,6 +129,8 @@ main {
     letter-spacing: 1px;
     padding:0.6em;
 }
+
+/* Quote Section*/
 
 #quote {
     width:100%;
@@ -153,6 +157,8 @@ main {
     color: #a1532b;
     font-weight: bold;
 }
+
+/* Crafts Section */
 
 #crafts {
     width:80%;
@@ -189,7 +195,7 @@ main {
     position: relative;
 
 }
-
+/* Materials Section */
 #materials {
     width: 80%;
 }
@@ -235,6 +241,8 @@ main {
     list-style-type: disc;
 }
 
+/* Club Section */
+
 #club-info {
     font-size: 130%;
     align-self: center;
@@ -252,6 +260,53 @@ main {
     margin-right:0.7em;
 }
 
+/** Sign up Section */
+
+#signup {
+    background: url(../images/signup-bg.webp) no-repeat center/cover;
+    background-position: 75%;
+    flex-grow:1;
+}
+
+#signup-form {
+    margin: 20px 10%;
+    background-color: rgba(60,60,60,0.6);
+    color:#fff;
+    padding:30px;
+    text-align: left;
+}
+
+#signup-form h2 {
+    font-size: 2rem;
+    text-transform: capitalize;
+    font-family: 'Lobster Two' sans-serif;
+    color: #fff;
+    margin-bottom: 1em;
+}
+
+.text-input {
+    height:25px;
+    width:100%;
+    margin:5px 0 20px;
+    padding: 0 5px;
+    color:#fafafa;
+    background: transparent;
+    border: 1px solid #fafafa;
+    border-radius:2px;
+}
+
+#checkboxes {
+    padding: 1em;
+}
+
+.submit-button {
+    margin-top:20px;
+    padding: 15px 32px;
+    background-color: #a1532b;
+    color:#fafafa;
+    font-size:120%;
+    border-radius: 2px;
+}
 
 /* footer */
 footer{
@@ -282,7 +337,7 @@ footer p {
     padding:5%;
 }
 
-.fa-solid {
+.fa-heart {
     color: #a1532b;
 }
 
