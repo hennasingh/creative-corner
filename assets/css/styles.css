@@ -22,6 +22,13 @@ section {
     margin-top: 2em;
 }
 
+ .heading-h2 {
+    color:#a1532b;
+    font-size: 2rem;
+    text-transform: capitalize;
+    font-family: 'Lobster Two' sans-serif;
+}
+
 /* Header */
 header {
     background-color: rgba(110,182,179);
@@ -187,13 +194,6 @@ main {
     width: 80%;
 }
 
-#materials h2 {
-    color:#a1532b;
-    font-size: 2rem;
-    text-transform: capitalize;
-    font-family: 'Lobster Two' sans-serif;
-}
-
 #materials > p {
     padding: 0.6em;
     font-size: 130%;
@@ -233,6 +233,23 @@ main {
     text-align: left;
     padding: 0.8em;
     list-style-type: disc;
+}
+
+#club-info {
+    font-size: 130%;
+    align-self: center;
+    padding: 0.7em;
+}
+
+#club-info p {
+    padding: 0.7em;
+    text-align: start;
+}
+
+#address-wrapper p {
+    font-size: 130%;
+    text-align: end;
+    margin-right:0.7em;
 }
 
 
