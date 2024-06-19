@@ -196,7 +196,7 @@
                 </div>
             </div>
         </section>
-        
+
         <!-- Club -->
         <section id="club-address">
             <h2>Clubhouse Address</h2>
@@ -217,6 +217,49 @@
                 </p>
                 <iframe id="map" src="https://shorturl.at/MWiD2" width="100%" height="350" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
+        </section>
+
+        <!-- Signup Form-->
+        <section id="signup">
+            <form action="https://formdump.codeinstitute.net" method="POST" id="signup-form">
+                <h2><i class="fa-solid fa-palette"></i>Sign up for Workshops!</h2>
+                <label for="first-name">First Name</label>
+                <input type="text" id="first-name" class="text-input" name="first-name" required>
+                <br>
+                <label for="last-name">Last Name</label>
+                <input type="text" id="last-name" class="text-input" name="last-name" required>
+                <br>
+                <label for="email-address">Email Address</label>
+                <input type="text" id="email-address" class="text-input" name="email-address" required>
+                <br>
+                <div class="checkboxes">
+                    <p>
+                        What crafts would you be interested in ?
+                    </p>
+                    <div>
+                        <input type="checkbox" name="quilling" id="quilling-checkbox" value="quilling" checked>
+                        <label for="quilling-checkbox">Quilling</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="cross-stitch" id="cross-stitch-checkbox" value="cross-stitch">
+                        <label for="cross-stitch-checkbox">Cross Stitch</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="acrylics" id="acrylics-checkbox" value="acrylics">
+                        <label for="acrylics-checkbox">Acrylics</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="alcohol-markers" id="markers-checkbox" value="alcohol-markers">
+                        <label for="markers-checkbox">Alcohol Markers</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="punch-needle" id="punch-checkbox" value="punch-needle">
+                        <label for="punch-checkbox">Punch Needle</label>
+                    </div>
+                </div>
+                <textarea name="message" placeholder="Comments" rows="6" cols="30"></textarea>
+                <input type="submit" class="submit-button" value="Let's Art!">               
+            </form>
         </section>
     </main>
 
