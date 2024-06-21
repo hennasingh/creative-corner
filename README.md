@@ -4,14 +4,12 @@ The objective of this project is to bring budding artists in the stillorgan, Dub
 
 Live Link: https://hennasingh.github.io/creative-corner/
 
-## Contents
 
+## User Experience - UX
 
-### User Experience - UX
+### Strategy
 
-#### Strategy
-
-This project got inspired by the existing [Kilmacud Crokes clubs](https://kilmacudcrokes.com/) based in Stillorgan. The House as part of the club has activities that members can participate in. Unfortunately, there wasn't a place for them to look at timings of the class or see the activities in action or engage with members who are already attending and hence Creative Corner is born.
+This project got inspired by the existing [Kilmacud Crokes clubs](https://kilmacudcrokes.com/) based in Stillorgan. The House as part of the club has activities that members can participate in. Unfortunately, there wasn't a place for them to look at timings of the class or see the activities in action or engage with members who are already attending, or volunteer to conduct art workshops and hence Creative Corner is born.
 
 - User Stories
     - First time Visitor Goals
@@ -23,11 +21,27 @@ This project got inspired by the existing [Kilmacud Crokes clubs](https://kilmac
         - I want to look at new activities and events happening and able to register for it.
 
 
-#### Skeleton
+<details>
+    <summary>Creative Corner - Design Brief</summary>
 
-The wireframes for mobile and desktop were created using Balsamiq
+   ![Design Brief](./assets/images/DesignBrief.png)
 
-#### Desktop Design
+</details>
+
+### Scope
+
+As a passionate artist myself, I decided to add 4 sections to the website to gauge user awareness and interest:
+
+- Home Page: Introduction about myself and types of arts I can teach. Call to Action for signing up for workshops
+- Crafts: A brief overview of different types of arts people can come together and learn.
+- Materials: Description of materials that are required to learn the specific art form.
+- Club Address: The address of the club where other activities and workshops will take place.
+- Signup Form: To allow users to register for art workshops.
+
+
+### Skeleton
+
+The wireframes for mobile and desktop were created using [Balsamiq](https://balsamiq.com/)
 
 <details>
 <summary>Desktop Wireframe</summary>
@@ -36,12 +50,33 @@ The wireframes for mobile and desktop were created using Balsamiq
 
 </details>
 
-#### Mobile Design
-
 <details>
 <summary>Mobile Wireframe</summary>
 
 ![Wireframe for Mobile Screens](./assets/images/Phone%20Pages-%20Wireframe.png)
+</details>
+
+The wireframes here were the initial idea of the website. Some design elements were changed for mobile to improve visibility and 
+readability of the content.
+
+## User Interface - Design
+
+### Typography
+
+Fonts have been imported from [GoogleFonts](https://fonts.google.com/)
+
+- The Lobster Two and Dancing Script were suggestions from chatGPT for an artistic website. Unfortunately, the dancing script was not readable on smaller screen sizes and on recommendation from Mentor, the font for body was changed to 'Handlee' keeping the handwriting style intact.
+
+
+### Colors
+
+Color Scheme idea was taken from [Coolers](cooler.co) on uploading the quote image to the platform. 
+
+<details>
+    <summary>Color Palette</summary>
+
+![color-palette](./assets/images/color-palette.png)
+
 </details>
 
 
