@@ -264,7 +264,6 @@ main {
 
 #signup {
     background: url(../images/signup-bg.webp) no-repeat center/cover;
-    background-position: 75%;
     flex-grow:1;
 }
 
@@ -350,6 +349,7 @@ footer p {
         font-size: 2.4rem;
     }
 
+    /* main */
     #hero-content > p {
         font-size:1.4rem;
         line-height: 30px;
@@ -376,6 +376,8 @@ footer p {
     .overlay-text {
         font-size: 1.2rem;
     } 
+
+    /* footer */
 
     footer {
         font-size: 130%;
@@ -414,7 +416,9 @@ footer p {
         line-height: 80px;
         margin: 0 0.5rem;
     }
+
     /* Main Content */
+
     main {
         /* Push main content down to accommodate larger header*/
         margin-top: 70px;
@@ -455,8 +459,8 @@ footer p {
         width:90%;
     }
 
-    #materials h2 {
-        font-size: 260%;
+    .heading-h2 {
+        font-size: 280%;
     }
 
     #materials > p {
@@ -484,6 +488,31 @@ footer p {
         font-size: 140%;
     }
 
+    #club-info {
+        font-size: 150%;
+    }
+
+    #address-wrapper {
+        font-size: 130%;
+    }
+
+    #signup {
+        background-position: center;
+        position: relative;
+        width:100%;
+        margin-top: 0;
+    }
+
+    #signup-form {
+        max-width: 500px;
+    }
+
+    textarea {
+        display: block;
+    }
+
+    /* footer */
+
     footer {
         font-size: 170%;
     }
@@ -491,6 +520,7 @@ footer p {
 
 /* Media Query: laptops and upwards (992px and up) */
 @media screen and (min-width: 992px) {
+
     /* Header*/
     h1 {
         font-size:300%;
@@ -538,7 +568,7 @@ footer p {
 
     #crafts {
         gap: 3em;
-        width:80%;
+        width:90%;
         margin-top: 4em;
     }
 
@@ -585,8 +615,17 @@ footer p {
         font-size: 140%;
     }
 
+    #crafts {
+        width:80%;
+    }
+
     #material-wrapper {
         flex-wrap: nowrap;
+    }
+
+    #club-info {
+        width:90%;
+        font-size:140%;
     }
 
     /* footer */
@@ -594,6 +633,7 @@ footer p {
         display:flex;
         justify-content: center;
         align-items: center;
+        font-size: 120%;
         padding: 0 0.6em;
     }
 
