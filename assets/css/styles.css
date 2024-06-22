@@ -29,6 +29,10 @@ section {
     font-family: 'Lobster Two' sans-serif;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: rgba(110,182,179);
@@ -258,6 +262,10 @@ main {
     font-size: 130%;
     text-align: end;
     margin-right:0.7em;
+}
+
+#map {
+    width:100%;
 }
 
 /** Sign up Section */
