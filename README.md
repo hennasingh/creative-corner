@@ -81,6 +81,22 @@ Color Scheme idea was taken from [Coolers](cooler.co) on uploading the quote ima
 
 ## Site Features
 
+- Navigation Bar
+
+The navigation bar contains links to different sections(Home, Crafts, Materials, Club, Signup) of the website to assist user to navigate through the page easily.
+
+<details>
+    <summary>Desktop Navbar</summary>
+</details>
+
+<details>
+    <summary>Responsive Navbar</summary>
+</details>
+
+
+### Testing
+
+The testing details for the website can be found in [testing.md](testing.md)
 
 
 ### Struggles and New Learnings
