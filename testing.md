@@ -45,16 +45,31 @@ HTML and CSS code for the website were tested and validated by using [HTML Valid
 This is an open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive
 web apps, SEO, and more.
 
+#### Mobile
+
 1. This was the initial report on the first test with lighthouse.
 
 <details>
-    <summary>Lighthouse - Initial Report(Mobile)</summary>
+    <summary>Lighthouse - Initial Report</summary>
 
-![Lighthouse Report - Initial (Mobile)](./assets/images/lighthouseReportInitial.png)
+![Lighthouse Report - Initial](./assets/images/lighthouseReportInitial.png)
 </details>
 
 <details>
-    <summary>Lighthouse - Second Report on Fixing (Mobile)</summary>
+    <summary>Lighthouse - Second Report on Fixing</summary>
 
-![Lighthouse Report - Fixed (Mobile)](./assets/images/lighthouseMobileFixed.png)
+![Lighthouse Report - Fixed](./assets/images/lighthouseMobileFixed.png)
 </details>
+
+#### Desktop
+
+<details>
+    <summary>Lighthouse - Initial Report</summary>
+
+![Lighthouse Report - Initial](./assets/images/lighthouseDesktopInitial.png)
+</details>
+
+
+There were issues in image sizes and aspect ratios that affected the performance score in both Desktop and Mobile. I would get back on this on how to improve image sizes. The first effort was to reduce image size for each image and convert all jpg or png to webp images. Further options need to be explored.
+
+The low score for best practices in Desktop was because of cookies. I yet do not know how to improve them.
