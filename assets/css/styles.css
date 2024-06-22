@@ -35,7 +35,7 @@ section {
 
 /* Header */
 header {
-    background-color: rgba(110,182,179);
+    background-color: #B6DAD9;
     position: fixed;
     width:100%;
     padding:0 1rem;
@@ -61,14 +61,10 @@ header a {
     margin-bottom: 1em;
 }
 
-.active{
-    border-bottom: 1px solid #a1532b;
-}
-
 /* Navbar styles with dropdown toggle*/
 nav {
     position:absolute;
-    background-color: #6eb6b3;
+    background-color: #B6DAD9;
     width:100%;
     padding: 0 1rem;
     left:0;
@@ -188,7 +184,7 @@ main {
     text-transform: capitalize;  
     padding: 0.2em 0;
     text-align: center;
-    background-color: #6eb6b3;
+    background-color: #B6DAD9;
 }
 
 .card-text p {
@@ -303,7 +299,15 @@ main {
 }
 
 #checkboxes {
-    padding: 1em;
+    padding: 1em 0;
+}
+
+#checkboxes >p {
+    padding:0.4em 0;
+}
+
+ #checkboxes > div{
+    padding: 0.3em 0;
 }
 
 .submit-button {
