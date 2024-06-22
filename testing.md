@@ -32,7 +32,13 @@ HTML and CSS code for the website were tested and validated by using [HTML Valid
 ![W3C CSS Validation - with Errors](./assets/images/cssValidationWithErros.png)
 </details>
 
+2. Another test on fixing the above errors
 
+<details>
+    <summary>CSS Validation - No Errors</summary>
+
+![W3C CSS Validation - No Errors](./assets/images/cssValidateNoErrors.png)
+</details>
 
 
 ### Lighthouse
