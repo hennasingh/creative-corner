@@ -94,7 +94,7 @@ The navigation bar contains links to different sections(Home, Crafts, Materials,
 </details>
 
 
-### Testing
+## Testing
 
 The testing details for the website can be found in [testing.md](testing.md)
 

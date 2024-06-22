@@ -48,8 +48,13 @@ web apps, SEO, and more.
 1. This was the initial report on the first test with lighthouse.
 
 <details>
-    <summary>Lighthouse - Initial Report</summary>
+    <summary>Lighthouse - Initial Report(Mobile)</summary>
 
-![Lighthouse Report - Initial](./assets/images/lighthouseReportInitial.png)
+![Lighthouse Report - Initial (Mobile)](./assets/images/lighthouseReportInitial.png)
 </details>
 
+<details>
+    <summary>Lighthouse - Second Report on Fixing (Mobile)</summary>
+
+![Lighthouse Report - Fixed (Mobile)](./assets/images/lighthouseMobileFixed.png)
+</details>
