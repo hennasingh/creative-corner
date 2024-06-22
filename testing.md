@@ -40,5 +40,16 @@ HTML and CSS code for the website were tested and validated by using [HTML Valid
 ![W3C CSS Validation - No Errors](./assets/images/cssValidateNoErrors.png)
 </details>
 
-
 ### Lighthouse
+
+This is an open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive
+web apps, SEO, and more.
+
+1. This was the initial report on the first test with lighthouse.
+
+<details>
+    <summary>Lighthouse - Initial Report</summary>
+
+![Lighthouse Report - Initial](./assets/images/lighthouseReportInitial.png)
+</details>
+
