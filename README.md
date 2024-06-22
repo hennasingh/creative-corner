@@ -79,6 +79,9 @@ Color Scheme idea was taken from [Coolers](cooler.co) on uploading the quote ima
 
 </details>
 
+## Site Features
+
+
 
 ### Struggles and New Learnings
 
