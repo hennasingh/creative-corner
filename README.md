@@ -87,10 +87,105 @@ The navigation bar contains links to different sections(Home, Crafts, Materials,
 
 <details>
     <summary>Desktop Navbar</summary>
+
+![Desktop Navbar](./assets/images/desktopNavbar.png)
 </details>
 
 <details>
     <summary>Responsive Navbar</summary>
+
+![Mobile Navbar](./assets/images/mobileNavbar.png)
+</details>
+
+- Home Section
+
+This section gives introduction about the website's purpose and call to action to signUp.
+
+<details><summary>Desktop View for Home Section</summary>
+
+![Home Section with intro to website](./assets/images/homeSection.png)
+</details>
+
+<details><summary>Responsive View for Home Section</summary>
+
+![Home Section View on Mobile](./assets/images/homeSecMobile.png)
+</details>
+
+- Crafts Section
+
+This section details the different crafts available that user can register workshop for
+
+<details><summary>Desktop View for Crafts Section</summary>
+
+![Crafts Section with different crafts](./assets/images/desktopCrafts.png)
+</details>
+
+<details><summary>Responsive View of Crafts Section</summary>
+
+![Mobile View of Crafts Section display](./assets/images/mobileCrafts.png)
+</details>
+
+- Materials Section
+
+This section describes materials needed for each craft. The details can be viewed by hovering over the image on desktop and clicking on the image on mobile.
+
+<details><summary>Desktop View for Material Section</summary>
+
+![Materials Section -Desktop View](./assets/images/desktopMaterials.png)
+</details>
+
+<details><summary>Mobile View for Material Section</summary>
+
+![Materials Section - Mobile View](./assets/images/mobileMaterials.png)
+</details>
+
+- Club Section
+
+This section provides details on the clubhouse, different activities available and its address
+
+<details><summary>Desktop View of the Clubhouse Section</summary>
+
+![Clubhouse Section - Desktop View](./assets/images/desktopClub.png)
+</details>
+
+<details><summary>Responsive View for Clubhouse Section</summary>
+
+![Clubhouse Section - Mobile View](./assets/images/mobileClub.png)
+</details>
+
+- Signup Form
+
+The users can signup for workshops or exhibitions to be held in the function room. The users will be identified by email.
+
+<details><summary>Signup Form - Desktop View</summary>
+
+![Signup Form - Desktop View](./assets/images/desktopSignup.png)
+</details>
+
+<details><summary>Responsive View for Signup Form</summary>
+
+![Signup Form - Mobile View](./assets/images/mobileSignup.png)
+</details>
+
+- Form Dump
+
+<details><summary>Form Dump on submitting the form</summary>
+
+![Form Dump](./assets/images/formDump.png)
+</details>
+
+- Footer
+
+The footer section contains the social media links for the website. At this moment, the link redirect to the media home page.
+
+<details><summary>Footer on Desktop</summary>
+
+![Desktop - Footer View](./assets/images/desktopFooter.png)
+</details>
+
+<details><summary>Responsive footer on mobile</summary>
+
+![Mobile - Footer View](./assets/images/mobileFooter.png)
 </details>
 
 
@@ -98,7 +193,7 @@ The navigation bar contains links to different sections(Home, Crafts, Materials,
 
 The testing details for the website can be found in [testing.md](testing.md)
 
-### Credits
+## Credits
 
 I got help from lot of online resources:
 
@@ -108,9 +203,9 @@ I got help from lot of online resources:
 4. [Pexels](www.pexels.com), [Freepick](www.freepick.com), [iStock](www.istockphoto.com), and Google search for images
 5. [Coolers](https://coolors.co/) for color theme.
 
-### Deployment & Gitpod Development
+## Deployment & Gitpod Development
 
-#### Deployment
+### Deployment
 
 The website is deployed using Github Pages functionality provided by Github. The steps to follow are:
 
@@ -122,7 +217,7 @@ The website is deployed using Github Pages functionality provided by Github. The
 6. Under the branch section below that, select /root folder and save.
 7. Come back to Code section of the repository. Give a few minutes and refresh the page. You will find Deployments section generated the right side with a URL to the deployed site.
 
-#### Gitpod Development
+### Gitpod Development
 
 The project Creative Corner was developed using Gitpod that provides the functionality to work in VS code within the browser. The steps I followed setting up account and develop the project:
 
