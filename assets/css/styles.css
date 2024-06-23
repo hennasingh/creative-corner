@@ -558,7 +558,6 @@ footer p {
 
     #hero-section figure {
         order: 2;
-        flex:4 0 450px;
         align-self: center;
     }
 
