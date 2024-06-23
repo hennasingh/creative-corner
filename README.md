@@ -81,7 +81,7 @@ Color Scheme idea was taken from [Coolers](cooler.co) on uploading the quote ima
 
 ## Site Features
 
-- Navigation Bar
+### Navigation Bar
 
 The navigation bar contains links to different sections(Home, Crafts, Materials, Club, Signup) of the website to assist user to navigate through the page easily.
 
@@ -97,7 +97,7 @@ The navigation bar contains links to different sections(Home, Crafts, Materials,
 ![Mobile Navbar](./assets/images/mobileNavbar.png)
 </details>
 
-- Home Section
+### Home Section
 
 This section gives introduction about the website's purpose and call to action to signUp.
 
@@ -111,7 +111,7 @@ This section gives introduction about the website's purpose and call to action t
 ![Home Section View on Mobile](./assets/images/homeSecMobile.png)
 </details>
 
-- Crafts Section
+### Crafts Section
 
 This section details the different crafts available that user can register workshop for
 
@@ -125,7 +125,7 @@ This section details the different crafts available that user can register works
 ![Mobile View of Crafts Section display](./assets/images/mobileCrafts.png)
 </details>
 
-- Materials Section
+### Materials Section
 
 This section describes materials needed for each craft. The details can be viewed by hovering over the image on desktop and clicking on the image on mobile.
 
@@ -139,7 +139,7 @@ This section describes materials needed for each craft. The details can be viewe
 ![Materials Section - Mobile View](./assets/images/mobileMaterials.png)
 </details>
 
-- Club Section
+### Club Section
 
 This section provides details on the clubhouse, different activities available and its address
 
@@ -153,7 +153,7 @@ This section provides details on the clubhouse, different activities available a
 ![Clubhouse Section - Mobile View](./assets/images/mobileClub.png)
 </details>
 
-- Signup Form
+### Signup Form
 
 The users can signup for workshops or exhibitions to be held in the function room. The users will be identified by email.
 
@@ -167,14 +167,14 @@ The users can signup for workshops or exhibitions to be held in the function roo
 ![Signup Form - Mobile View](./assets/images/mobileSignup.png)
 </details>
 
-- Form Dump
+### Form Dump
 
 <details><summary>Form Dump on submitting the form</summary>
 
 ![Form Dump](./assets/images/formDump.png)
 </details>
 
-- Footer
+### Footer
 
 The footer section contains the social media links for the website. At this moment, the link redirect to the media home page.
 
