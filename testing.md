@@ -73,3 +73,9 @@ web apps, SEO, and more.
 There were issues in image sizes and aspect ratios that affected the performance score in both Desktop and Mobile. I would get back on this on how to improve image sizes. The first effort was to reduce image size for each image and convert all jpg or png to webp images. Further options need to be explored.
 
 The low score for best practices in Desktop was because of cookies. I yet do not know how to improve them.
+
+1. The performance on desktop was improved further. Image sizes were modified using image sizer tool and aspect ratio was maintained. To improve the score for best practices, image sizes were kept consistent on larger screens.
+
+
+
+
