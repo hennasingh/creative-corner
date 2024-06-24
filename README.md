@@ -201,6 +201,8 @@ by the tests.
 
 4. The website will also feature different local artists and an opportunity to buy their art.
 
+5. The next version of the website will not allow empty submissions for workshop checkboxes. 
+
 ## Technologies Used
 
 ### Languages
