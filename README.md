@@ -220,6 +220,10 @@ by the tests.
 
 - [chatGPT](https://chat.openai.com/) - For content on crafts, font suggestions and images for crafts (quilling, acrylics, alcohol markers)
 
+- [Image Resizer](https://imageresizer.com/) - For cropping and resigning images.
+
+- [cwebp](https://www.npmjs.com/package/cwebp) - For converting images from jpg/png to webp formats
+
 
 ## Testing
 
