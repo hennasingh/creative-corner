@@ -13,7 +13,7 @@ HTML and CSS code for the website were tested and validated by using [HTML Valid
 <details>
     <summary>HTML Validation with Errors</summary>
 
-[W3C HTML Validation- With Errors](./assets/images/htmlValidationWithErrors.png)
+![W3C HTML Validation- With Errors](./readMeFiles/htmlValidationWithErrors.png)
 </details>
 
 2. The errors were fixed and another test was done
@@ -21,7 +21,7 @@ HTML and CSS code for the website were tested and validated by using [HTML Valid
 <details>
     <summary>HTML Validation - No Errors</summary>
 
-![W3C HTML Validation- No Errors](./assets/images/htmlValidationNoErrors.png)
+![W3C HTML Validation- No Errors](./readMeFiles/htmlValidationNoErrors.png)
 </details>
 
 1. First test with CSS Validator showed errors
@@ -29,7 +29,7 @@ HTML and CSS code for the website were tested and validated by using [HTML Valid
 <details>
     <summary>CSS Validation with Errors</summary>
 
-![W3C CSS Validation - with Errors](./assets/images/cssValidationWithErros.png)
+![W3C CSS Validation - with Errors](./readMeFiles/cssValidationWithErros.png)
 </details>
 
 2. Another test on fixing the above errors
@@ -37,7 +37,7 @@ HTML and CSS code for the website were tested and validated by using [HTML Valid
 <details>
     <summary>CSS Validation - No Errors</summary>
 
-![W3C CSS Validation - No Errors](./assets/images/cssValidateNoErrors.png)
+![W3C CSS Validation - No Errors](./readMeFiles/cssValidateNoErrors.png)
 </details>
 
 ### Lighthouse
@@ -52,13 +52,13 @@ web apps, SEO, and more.
 <details>
     <summary>Lighthouse - Initial Report</summary>
 
-![Lighthouse Report - Initial](./assets/images/lighthouseReportInitial.png)
+![Lighthouse Report - Initial](./readMeFiles/lighthouseReportInitial.png)
 </details>
 
 <details>
     <summary>Lighthouse - Second Report on Fixing</summary>
 
-![Lighthouse Report - Fixed](./assets/images/lighthouseMobileFixed.png)
+![Lighthouse Report - Fixed](./readMeFiles/lighthouseMobileFixed.png)
 </details>
 
 #### Desktop
@@ -66,7 +66,7 @@ web apps, SEO, and more.
 <details>
     <summary>Lighthouse - Initial Report</summary>
 
-![Lighthouse Report - Initial](./assets/images/lighthouseDesktopInitial.png)
+![Lighthouse Report - Initial](./readMeFiles/lighthouseDesktopInitial.png)
 </details>
 
 
@@ -77,7 +77,7 @@ There were issues in image sizes and aspect ratios that affected the performance
 <details>
     <summary>Lighthouse Report - Final</summary>
 
-![Lighthouse Report - Final](./assets/images/lighthouseFinal.png)
+![Lighthouse Report - Final](./readMeFiles/lighthouseFinal.png)
 </details>
 
 2. The low score for best practices in Desktop was because of cookies. I yet do not know how to improve them.
@@ -85,7 +85,7 @@ There were issues in image sizes and aspect ratios that affected the performance
 <details>
     <summary>Lighthouse Report - Best Practices</summary>
 
-![Best Practices - Lighthouse](./assets/images/bestPracticesLighthouse.png)
+![Best Practices - Lighthouse](./readMeFiles/bestPracticesLighthouse.png)
 </details>
 
 ## Manual Testing
@@ -101,7 +101,7 @@ There were issues in image sizes and aspect ratios that affected the performance
 <details>
     <summary>The home section introduces the website. The site also has a clear navbar to navigate through the page</summary>
 
-![Website Responsive -ui.dev](./assets/images/responsiveShot.png)
+![Website Responsive -ui.dev](./readMeFiles/responsiveShot.png)
 </details>
 
 #### Returning Visitor Goals
@@ -113,7 +113,7 @@ There were issues in image sizes and aspect ratios that affected the performance
 <details>
     <summary>The website explains different crafts and materials required for each class and provides a signup form for user to register</summary>
 
-![Website Goals - Crafts, Materials and Signup](./assets/images/websiteGoals.png)
+![Website Goals - Crafts, Materials and Signup](./readMeFiles/websiteGoals.png)
 </details>
 
 Future Implementation of the website will provide user testimonials and workshop timings.

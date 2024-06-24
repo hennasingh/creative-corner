@@ -2,7 +2,7 @@
 
 The objective of this project is to bring budding artists in the stillorgan, Dublin area under one place to show art or take workshops. The site is an MVP version built using HTML5 & CSS3 for the Milestone 1 project for Code Institute's Full Stack Development diploma.
 
-![Responsive View of the website on different screens](./assets/images/responsiveShot.png)
+![Responsive View of the website on different screens](./readMeFiles/responsiveShot.png)
 
 Live Link: https://hennasingh.github.io/creative-corner/
 
@@ -26,7 +26,7 @@ This project got inspired by the existing [Kilmacud Crokes clubs](https://kilmac
 <details>
     <summary>Creative Corner - Design Brief</summary>
 
-   ![Design Brief](./assets/images/DesignBrief.png)
+   ![Design Brief](./readMeFiles/DesignBrief.png)
 
 </details>
 
@@ -48,14 +48,14 @@ The wireframes for mobile and desktop were created using [Balsamiq](https://bals
 <details>
 <summary>Desktop Wireframe</summary>
 
-![Wireframe for Desktop](./assets/images/Wireframe%20-%20Desktops.png)
+![Wireframe for Desktop](./readMeFiles/Wireframe%20-%20Desktops.png)
 
 </details>
 
 <details>
 <summary>Mobile Wireframe</summary>
 
-![Wireframe for Mobile Screens](./assets/images/Phone%20Pages-%20Wireframe.png)
+![Wireframe for Mobile Screens](./readMeFiles/Phone%20Pages-%20Wireframe.png)
 </details>
 
 The wireframes here were the initial idea of the website. Some design elements were changed for mobile to improve visibility and 
@@ -77,7 +77,7 @@ Color Scheme idea was taken from [Coolers](cooler.co) on uploading the quote ima
 <details>
     <summary>Color Palette</summary>
 
-![color-palette](./assets/images/color-palette.png)
+![color-palette](./readMeFiles/color-palette.png)
 
 </details>
 
@@ -90,13 +90,13 @@ The navigation bar contains links to different sections(Home, Crafts, Materials,
 <details>
     <summary>Desktop Navbar</summary>
 
-![Desktop Navbar](./assets/images/desktopNavbar.png)
+![Desktop Navbar](./readMeFiles/desktopNavbar.png)
 </details>
 
 <details>
     <summary>Responsive Navbar</summary>
 
-![Mobile Navbar](./assets/images/mobileNavbar.png)
+![Mobile Navbar](./readMeFiles/mobileNavbar.png)
 </details>
 
 ### Home Section
@@ -105,12 +105,12 @@ This section gives introduction about the website's purpose and call to action t
 
 <details><summary>Desktop View for Home Section</summary>
 
-![Home Section with intro to website](./assets/images/homeSection.png)
+![Home Section with intro to website](./readMeFiles/homeSection.png)
 </details>
 
 <details><summary>Responsive View for Home Section</summary>
 
-![Home Section View on Mobile](./assets/images/homeSecMobile.png)
+![Home Section View on Mobile](./readMeFiles/homeSecMobile.png)
 </details>
 
 ### Crafts Section
@@ -119,12 +119,12 @@ This section details the different crafts available that user can register works
 
 <details><summary>Desktop View for Crafts Section</summary>
 
-![Crafts Section with different crafts](./assets/images/desktopCrafts.png)
+![Crafts Section with different crafts](./readMeFiles/desktopCrafts.png)
 </details>
 
 <details><summary>Responsive View of Crafts Section</summary>
 
-![Mobile View of Crafts Section display](./assets/images/mobileCrafts.png)
+![Mobile View of Crafts Section display](./readMeFiles/mobileCrafts.png)
 </details>
 
 ### Materials Section
@@ -133,12 +133,12 @@ This section describes materials needed for each craft. The details can be viewe
 
 <details><summary>Desktop View for Material Section</summary>
 
-![Materials Section -Desktop View](./assets/images/desktopMaterials.png)
+![Materials Section -Desktop View](./readMeFiles/desktopMaterials.png)
 </details>
 
 <details><summary>Mobile View for Material Section</summary>
 
-![Materials Section - Mobile View](./assets/images/mobileMaterials.png)
+![Materials Section - Mobile View](./readMeFiles/mobileMaterials.png)
 </details>
 
 ### Club Section
@@ -147,12 +147,12 @@ This section provides details on the clubhouse, different activities available a
 
 <details><summary>Desktop View of the Clubhouse Section</summary>
 
-![Clubhouse Section - Desktop View](./assets/images/desktopClub.png)
+![Clubhouse Section - Desktop View](./readMeFiles/desktopClub.png)
 </details>
 
 <details><summary>Responsive View for Clubhouse Section</summary>
 
-![Clubhouse Section - Mobile View](./assets/images/mobileClub.png)
+![Clubhouse Section - Mobile View](./readMeFiles/mobileClub.png)
 </details>
 
 ### Signup Form
@@ -161,19 +161,19 @@ The users can signup for workshops or exhibitions to be held in the function roo
 
 <details><summary>Signup Form - Desktop View</summary>
 
-![Signup Form - Desktop View](./assets/images/desktopSignup.png)
+![Signup Form - Desktop View](./readMeFiles/desktopSignup.png)
 </details>
 
 <details><summary>Responsive View for Signup Form</summary>
 
-![Signup Form - Mobile View](./assets/images/mobileSignup.png)
+![Signup Form - Mobile View](./readMeFiles/mobileSignup.png)
 </details>
 
 ### Form Dump
 
 <details><summary>Form Dump on submitting the form</summary>
 
-![Form Dump](./assets/images/formDump.png)
+![Form Dump](./readMeFiles/formDump.png)
 </details>
 
 ### Footer
@@ -182,12 +182,12 @@ The footer section contains the social media links for the website. At this mome
 
 <details><summary>Footer on Desktop</summary>
 
-![Desktop - Footer View](./assets/images/desktopFooter.png)
+![Desktop - Footer View](./readMeFiles/desktopFooter.png)
 </details>
 
 <details><summary>Responsive footer on mobile</summary>
 
-![Mobile - Footer View](./assets/images/mobileFooter.png)
+![Mobile - Footer View](./readMeFiles/mobileFooter.png)
 </details>
 
 ## Future Implementations
@@ -232,7 +232,7 @@ The testing details for the website can be found in [testing.md](testing.md)
 
 ## Deployment & Gitpod Development
 
-### Deployment
+### Github Pages
 
 The website is deployed using Github Pages functionality provided by Github. The steps to follow are:
 
@@ -279,7 +279,7 @@ The project Creative Corner was developed using Gitpod that provides the functio
 
  - Spencer Barriball - Mentor : For guidance and review on the website
 
- - Kamil - Cohort Facilitator : For weekly stand-up meetings and informative sessions
+ - Kamil Wojciechowski - Cohort Facilitator : For weekly stand-up meetings and informative sessions
 
  - Class April 2024 - For motivation, idea brainstorming and group discussions.
 
