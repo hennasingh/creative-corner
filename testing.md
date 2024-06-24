@@ -161,6 +161,6 @@ I had some struggles when I started working on the project and learnt a few thin
 
 5. I struggled with managing the width of the components on the website. The images would get distorted on 4k and higher resolution screens. I am still figuring out to fix it. Mentor suggested to give max-width to all the content in the main section. I am trying to see if I can give max-width to certain sections than the entire page.
 
-6. I struggled in maintaining the aspect ratio of images and prevent from distorting. I ended up changing all those images and used chatGPT to generate images for some art forms (quilling, acrylics and alcohol sketches)
+6. I struggled in maintaining the aspect ratio of images and prevent from distorting. I ended up changing some of the images and used chatGPT to generate images for some art forms (quilling, acrylics and alcohol sketches). There is still an issue on displaying on smaller than 320px as images overflow on that. If I make the width 100% for images, then images gets distorted on larger screens. Currently, I have removed 100% width on the images in crafts-section to avoid distortion on larger screens.
 
 
