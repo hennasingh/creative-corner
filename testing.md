@@ -61,6 +61,11 @@ web apps, SEO, and more.
 ![Lighthouse Report - Fixed](./readMeFiles/lighthouseMobileFixed.png)
 </details>
 
+<details><summary>Click here to see final report after further image size changes</summary>
+
+![Lighthouse Report - Final](./readMeFiles/mobileLighthouseFinal.png)
+</details>
+
 #### Desktop
 
 <details>
