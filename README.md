@@ -2,6 +2,8 @@
 
 The objective of this project is to bring budding artists in the stillorgan, Dublin area under one place to show art or take workshops. The site is an MVP version built using HTML5 & CSS3 for the Milestone 1 project for Code Institute's Full Stack Development diploma.
 
+![Responsive View of the website on different screens](./assets/images/responsiveShot.png)
+
 Live Link: https://hennasingh.github.io/creative-corner/
 
 
@@ -263,6 +265,8 @@ The project Creative Corner was developed using Gitpod that provides the functio
 - [Coolers](https://coolors.co/) - For color theme.
 
 - [Pexels](www.pexels.com), [Freepick](www.freepick.com), [iStock](www.istockphoto.com), [unsplash]()- For images used in the website.
+
+- [UI.dev](https://ui.dev/amiresponsive) - To show the site on different screen sizes.
 
 
 ## Acknowledgments
