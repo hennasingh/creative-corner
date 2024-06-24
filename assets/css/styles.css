@@ -441,7 +441,7 @@ footer p {
 
     #hero-section figure {
         order: 2;
-        flex:3 2 320px;
+        flex:3 1 320px;
         align-self: center;
     }
 
@@ -558,8 +558,8 @@ footer p {
 
     #hero-section figure {
         order: 2;
-        align-self: center;
-        max-width:500px;
+        align-self: flex-end;
+        max-width:388px;
     }
 
     #hero-content {
