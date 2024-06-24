@@ -199,19 +199,30 @@ by the tests.
 
 4. The website will also feature different local artists and an opportunity to buy their art.
 
+## Technologies Used
+
+### Languages
+
+- HTML
+- CSS
+
+### Other Sites and Softwares
+
+- [Balsamiq](https://balsamiq.com/) - For designing wireframes for desktop and mobile, and for writing design brief.
+
+- [Font Awesome](https://fontawesome.com/icons) - For icons for social media (facebook, instagram, X, and linkedIn)
+
+- [Icons8](https://icons8.com/icons/set/creativity) - For creativity favicon
+
+- Git/Github - For version control and save project for website
+
+- [chatGPT](https://chat.openai.com/) - For content on crafts, font suggestions and images for crafts (quilling, acrylics, alcohol markers)
+
+
 ## Testing
 
 The testing details for the website can be found in [testing.md](testing.md)
 
-## Credits
-
-I got help from lot of online resources:
-
-1. My font options were given by chatGPT on prompt " fonts for art websites" and fonts were taken from [Google Fonts](https://fonts.google.com/).
-2. The creative quote was taken from [extraordinary chaos](https://extraordinarychaos.com/amazing-quotes-about-crafting.html).
-3. The fade in Overlay in the material sections was taken from W3schools [Image Overlay Fade](https://www.w3schools.com/howto/howto_css_image_overlay.asp).
-4. [Pexels](www.pexels.com), [Freepick](www.freepick.com), [iStock](www.istockphoto.com), and Google search for images
-5. [Coolers](https://coolors.co/) for color theme.
 
 ## Deployment & Gitpod Development
 
@@ -239,7 +250,30 @@ The project Creative Corner was developed using Gitpod that provides the functio
 6. You can continue to make changes in the workspace within Gitpod and commit your changes to Github and also see preview of your website.
 
 
+## Credits
 
+ - [extraordinary chaos](https://extraordinarychaos.com/amazing-quotes-about-crafting.html) - For crafting quote.
+
+ - [W3Schools](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - For image overlay fade used in Materials section.
+
+ - [Code-Institute](https://www.codeinstitute.net) For amazing guidance on CSS and HTML via Love Running project
+
+ - [Google Fonts](https://fonts.google.com/) - For fonts used in the website ('Lobster Two', 'Handlee')
+
+- [Coolers](https://coolors.co/) - For color theme.
+
+- [Pexels](www.pexels.com), [Freepick](www.freepick.com), [iStock](www.istockphoto.com), [unsplash]()- For images used in the website.
+
+
+## Acknowledgments
+
+ - [Kilmacrud Crokes](https://kilmacudcrokes.com/house) - For inspiration and content about the Clubhouse
+
+ - Spencer Barriball - Mentor : For guidance and review on the website
+
+ - Kamil - Cohort Facilitator : For weekly stand-up meetings and informative sessions
+
+ - Class April 2024 - For motivation, idea brainstorming and group discussions.
 
 
 
