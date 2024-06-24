@@ -188,6 +188,16 @@ The footer section contains the social media links for the website. At this mome
 ![Mobile - Footer View](./assets/images/mobileFooter.png)
 </details>
 
+## Future Implementations
+
+1. The lighthouse reports result in low best practices score. The next version of the site will focus on improving the score highlighted 
+by the tests.
+
+2. The next version of the website will include testimonials from users doing the workshops and exhibitions. Some real life photographs will be added to the website.
+
+3. The next version of the website will display date, time and type of the workshop being held.
+
+4. The website will also feature different local artists and an opportunity to buy their art.
 
 ## Testing
 
